@@ -5,7 +5,7 @@
   
 # Project Highlights
 
-# This project focuses on key areas that impact churn, including:
+# This project focuses on key areas that impact churn including:
 
 Customer activity status
 Credit card usage
