@@ -25,7 +25,6 @@ These insights help the supermarket understand which categories perform well, ho
 
 # Dashboard Visualization
 
-
 The dashboard presents a complete overview of supermarket sales using KPIs, tables, bar charts, line charts, and donut charts for interactive analysis.
 
 # Dashboard Insights
